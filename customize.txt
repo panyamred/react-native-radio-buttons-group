@@ -1,0 +1,8 @@
+I have forked your repo and made few changes to RadioButtonsGroup.js to support default selection, group styling and radio alignment.
+
+<RadioGroup style={{marginLeft: 32}}
+    alignItems="left" defaultSelected={false} radioButtons={data} onPress={onPress} />
+                            
+https://github.com/panyamred/react-native-radio-buttons-group/blob/master/lib/RadioButtonsGroup.js
+
+If you are interested with the changes, please add them to your repo.
